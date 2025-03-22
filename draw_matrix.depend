@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1702810856 source:c:\facultate\an i\ip\lucram probleme\draw_matrix\draw_matrix.cpp
+	<graphics.h>
+	<iostream>
+	"draw_matrix.h"
+	<winbgim.h>
+
+1702810683 c:\facultate\an i\ip\lucram probleme\draw_matrix\draw_matrix.h
+
+1704985807 source:c:\facultate\an i\ip\lucram probleme\draw_matrix\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<unistd.h>
+	"game.h"
+	"graph.h"
+
+1705438980 source:c:\facultate\an i\ip\lucram probleme\draw_matrix\graph.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdio.h>
+	"game.h"
+	"graph.h"
+
+1705227646 c:\facultate\an i\ip\lucram probleme\draw_matrix\graph.h
+
+1705438565 source:c:\facultate\an i\ip\lucram probleme\draw_matrix\game.cpp
+	<iostream>
+	"game.h"
+	"graph.h"
+	<queue>
+	<string.h>
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+
+1705295062 c:\facultate\an i\ip\lucram probleme\draw_matrix\game.h
+
+1705502999 source:c:\users\radug\onedrive\desktop\draw_matrix\game.cpp
+	<iostream>
+	"game.h"
+	"graph.h"
+	<queue>
+	<string.h>
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+
+1705501765 c:\users\radug\onedrive\desktop\draw_matrix\game.h
+
+1705501765 c:\users\radug\onedrive\desktop\draw_matrix\graph.h
+
+1705503199 source:c:\users\radug\onedrive\desktop\draw_matrix\graph.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdio.h>
+	"game.h"
+	"graph.h"
+
+1705501765 source:c:\users\radug\onedrive\desktop\draw_matrix\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<unistd.h>
+	"game.h"
+	"graph.h"
+
+1705502999 source:c:\users\radug\onedrive\desktop\b3_bridge-it_gociu radu_pandele bogdan\game.cpp
+	<iostream>
+	"game.h"
+	"graph.h"
+	<queue>
+	<string.h>
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+
+1705501765 c:\users\radug\onedrive\desktop\b3_bridge-it_gociu radu_pandele bogdan\game.h
+
+1705501765 c:\users\radug\onedrive\desktop\b3_bridge-it_gociu radu_pandele bogdan\graph.h
+
+1705503199 source:c:\users\radug\onedrive\desktop\b3_bridge-it_gociu radu_pandele bogdan\graph.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdio.h>
+	"game.h"
+	"graph.h"
+
+1705501765 source:c:\users\radug\onedrive\desktop\b3_bridge-it_gociu radu_pandele bogdan\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<unistd.h>
+	"game.h"
+	"graph.h"
+
+1705593365 source:c:\users\radug\onedrive\desktop\b3_bridg-it_gociu radu_pandele bogdan\game.cpp
+	<iostream>
+	"game.h"
+	"graph.h"
+	<queue>
+	<string.h>
+	<stdio.h>
+	<graphics.h>
+	<time.h>
+
+1705501765 c:\users\radug\onedrive\desktop\b3_bridg-it_gociu radu_pandele bogdan\game.h
+
+1705501765 c:\users\radug\onedrive\desktop\b3_bridg-it_gociu radu_pandele bogdan\graph.h
+
+1705593339 source:c:\users\radug\onedrive\desktop\b3_bridg-it_gociu radu_pandele bogdan\graph.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<stdio.h>
+	"game.h"
+	"graph.h"
+
+1705501765 source:c:\users\radug\onedrive\desktop\b3_bridg-it_gociu radu_pandele bogdan\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<unistd.h>
+	"game.h"
+	"graph.h"
+
