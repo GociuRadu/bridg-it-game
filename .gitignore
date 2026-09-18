@@ -1,0 +1,13 @@
+# Build output
+bin/
+obj/
+*.o
+*.exe
+
+# Code::Blocks generated
+*.depend
+*.layout
+
+# OS / editor
+Thumbs.db
+*.lnk
